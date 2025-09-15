@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PalindromeNumberChecker {
+public class palindrom {
 
     public static boolean isPalindrome(int number) {
         int originalNumber = number;
